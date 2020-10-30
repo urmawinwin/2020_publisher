@@ -1,0 +1,33 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap"); */
+
+@import url("https://fonts.googleapis.com/css2?family=Ramabhadra&family=Roboto&family=Russo+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Ramabhadra&family=Roboto&family=Russo+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+/* ����螳��� ���ろ�� */
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap");
+/*  */
+
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@300;400;500;600;700;800&display=swap");
+
+@font-face {
+  font-family: "NanumBarunGothicBold";
+  src: url("./NanumBarunGothicBold.woff") format("woff"),
+    url("./NanumBarunGothicBold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TTMussels-ThinItalic";
+  src: url("./TTMussels-ThinItalic.woff") format("woff"),
+    url("./TTMussels-ThinItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+/* sec3 에 쓰이는 얇은 이탤릭체 */
+/* font-family: 'Play', sans-serif; */
